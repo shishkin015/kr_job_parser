@@ -1,0 +1,3 @@
+Параметры доступа
+Api-id	2950
+SJ_API_KEY	v3.r.137801237.d2553ebdc474351d62d29af32cf391b358975dbd.607d30ae8039e36afd722f1c1e7900c93dac3c8c

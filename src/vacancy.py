@@ -13,7 +13,7 @@ class Vacancy:
 
         self._validate_data()
 
-    def __repr__(self):
+    def __str__(self):
         """
                 Возвращает строковое представление объекта.
 
@@ -37,10 +37,9 @@ class Vacancy:
 
     def to_dict(self):
         """
-                Возвращает объект в виде словаря.
-
-                :return: Словарь, представляющий объект Vacancy.
-                :rtype: dict
+        Возвращает объект в виде словаря.
+        :return: Словарь, представляющий объект Vacancy.
+        :rtype: dict
         """
         return {
             "id_num": self.id_num,
@@ -84,3 +83,36 @@ class Vacancy:
 
         if not isinstance(self.url, str):
             raise ValueError("URL должен быть строкой")
+
+    def __eq__(self, other):
+        """
+                Проверяет, равны ли объекты по зарплате.
+
+                :param other: Другой объект Vacancy для сравнения.
+                :type other: Vacancy
+
+                :return: True, если объекты равны по зарплате, в противном случае - False.
+                :rtype: bool
+        """
+        are_salaries_equal = (
+                self.salary_from == other.salary_from and
+                self.salary_to == other.salary_to and
+                self.salary_currency == other.salary_currency
+        )
+        return are_salaries_equal
+
+    def __lt__(self, other):
+        result = self.salary_from < other.salary_from
+        return result
+
+    def __le__(self, other):
+        result = self.salary_from <= other.salary_from
+        return result
+
+    def __gt__(self, other):
+        result = self.salary_to > other.salary_to
+        return result
+
+    def __ge__(self, other):
+        result = self.salary_to >= other.salary_to
+        return result

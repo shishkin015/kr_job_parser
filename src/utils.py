@@ -7,59 +7,6 @@ from src.vacancy import Vacancy
 
 def search_vacancy():
     """
-    Метод для поиска вакансий и сохранения их в файл.
-    Использует ввод пользователя для получения параметров поиска,
-    таких как: сайт, ключевой запрос, город, опыт, количество вакансий, сортировка.
-    После чего, использует соответствующий API для получения данных и выводит их на экран.
-    Затем сохраняет результаты в файл в формате JSON, TXT, CSV или Excel.
-    :return: None
-    """
-    website = UserInterface.get_site_selection()
-
-    search_term = UserInterface.get_search_term()
-
-    city = UserInterface.get_city_name()
-    if isinstance(website, HeadHunterAPI):
-        city = ControllerHH.get_city_id(city)
-    elif isinstance(website, SuperJobAPI):
-        city = ControllerSuperJob.validate_city(city)
-
-    experience = UserInterface.get_experience()
-
-    number_of_vacancies = UserInterface.get_experience()
-
-    order_by_param = UserInterface.get_order_param()
-    if isinstance(website, HeadHunterAPI):
-        order_by_param = ControllerHH.order_by(order_by_param)
-    if isinstance(website, SuperJobAPI):
-        order_by_param = ControllerSuperJob.order_by(order_by_param)
-
-    data = website.get_vacancies(search_term, city, experience, number_of_vacancies, order_by_param)
-
-    print([item.to_dict() for item in data])
-
-    for item in data:
-        print(item)
-        print("-" * 30)
-
-    UserInterface.save_to_file_context('../data/vacancies', [item.to_dict() for item in data])
-
-
-def get_list_of_vacancy_inst():
-    """
-    Получить список вакансий из файла JSON и вернуть список экземпляров класса Vacancy.
-    :return: Список экземпляров Vacancy.
-    """
-    json_loader = JsonJobEditor("../data/vacancies.json")
-    json_loader.load_from_file()
-
-    if len(json_loader.instance_vacancies) == 0:
-        return []
-    return json_loader.instance_vacancies
-
-
-def search_vacancy():
-    """
         Метод для поиска вакансий и сохранения их в файл.
 
         Использует ввод пользователя для получения параметров поиска,

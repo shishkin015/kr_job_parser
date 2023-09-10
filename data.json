@@ -1,1740 +1,1701 @@
 {
-  'items': [
+  "items": [
     {
-      'id': '86324076',
-      'premium': False,
-      'name': 'Разработчик Python (junior)',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': True,
-      'area': {
-        'id': '1',
-        'name': 'Москва',
-        'url': 'https://api.hh.ru/areas/1'
+      "id": "86420182",
+      "premium": false,
+      "name": "\u0421\u0442\u0430\u0436\u0435\u0440 \u043f\u043e Data Science",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "88",
+        "name": "\u041a\u0430\u0437\u0430\u043d\u044c",
+        "url": "https://api.hh.ru/areas/88"
       },
-      'salary': {
-        'from': None,
-        'to': 80000,
-        'currency': 'RUR',
-        'gross': False
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
       },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': None,
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-06T12:12:13+0300',
-      'created_at': '2023-09-06T12:12:13+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86324076',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86324076?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86324076',
-      'relations': [],
-      'employer': {
-        'id': '4872201',
-        'name': 'ANABAR',
-        'url': 'https://api.hh.ru/employers/4872201',
-        'alternate_url': 'https://hh.ru/employer/4872201',
-        'logo_urls': {
-          '90': 'https://hhcdn.ru/employer-logo/6020773.png',
-          '240': 'https://hhcdn.ru/employer-logo/6020774.png',
-          'original': 'https://hhcdn.ru/employer-logo-original/1100040.png'
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-08T00:37:48+0300",
+      "created_at": "2023-09-08T00:37:48+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86420182",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86420182?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86420182",
+      "relations": [],
+      "employer": {
+        "id": "4350075",
+        "name": "\u0413\u041a Innostage",
+        "url": "https://api.hh.ru/employers/4350075",
+        "alternate_url": "https://hh.ru/employer/4350075",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/792044.png",
+          "90": "https://hhcdn.ru/employer-logo/3609063.png",
+          "240": "https://hhcdn.ru/employer-logo/3609064.png"
         },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4872201',
-        'accredited_it_employer': True,
-        'trusted': True
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4350075",
+        "accredited_it_employer": false,
+        "trusted": true
       },
-      'snippet': {
-        'requirement': 'Знание что такое swagger. Знание как управлять зависимостями в приложениях на <highlighttext>python</highlighttext> (pip/poetry/pipenv). Понимание про typehints/mypy. ',
-        'responsibility': 'Написание микросервисов для аналитических сервисов (формируют хитрый оптимизированный запрос в БД, обрабатывает на <highlighttext>python</highlighttext> и отдает в <highlighttext>python</highlighttext>). '
+      "snippet": {
+        "requirement": "...\u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f. \u041e\u043d \u043f\u0440\u0435\u0434\u043f\u043e\u043b\u0430\u0433\u0430\u0435\u0442 \u043d\u0430\u043b\u0438\u0447\u0438\u0435: \u0411\u0430\u0437\u043e\u0432\u044b\u0445 \u0437\u043d\u0430\u043d\u0438\u0439 \u0432 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0435. \u041d\u0430\u0432\u044b\u043a\u043e\u0432 \u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438 \u043d\u0430 \u044f\u0437\u044b\u043a\u0435 <highlighttext>Python</highlighttext> \u0434\u043b\u044f \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0437\u0430\u0434\u0430\u0447.",
+        "responsibility": "\u0412 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0435 \u043a\u0443\u0440\u0441\u0430 \u0431\u0443\u0434\u0435\u0442 6 \u0431\u043b\u043e\u043a\u043e\u0432, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0449\u0438\u0445 \u0432 \u0441\u0435\u0431\u044f 32 \u043b\u0435\u043a\u0446\u0438\u0438 \u0438 5 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0445 \u0440\u0430\u0431\u043e\u0442. \u041a\u0443\u0440\u0441 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u043d\u0430 \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0435..."
       },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
         {
-          'id': '96',
-          'name': 'Программист, разработчик'
+          "id": "165",
+          "name": "\u0414\u0430\u0442\u0430-\u0441\u0430\u0439\u0435\u043d\u0442\u0438\u0441\u0442"
         }
       ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
       },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
+      "employment": {
+        "id": "probation",
+        "name": "\u0421\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0430"
       },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
+      "adv_response_url": null,
+      "is_adv_vacancy": false
     },
     {
-      'id': '86213456',
-      'premium': False,
-      'name': 'Junior backend-разработчик',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '77',
-        'name': 'Рязань',
-        'url': 'https://api.hh.ru/areas/77'
+      "id": "86213456",
+      "premium": false,
+      "name": "Junior backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "77",
+        "name": "\u0420\u044f\u0437\u0430\u043d\u044c",
+        "url": "https://api.hh.ru/areas/77"
       },
-      'salary': {
-        'from': 30000,
-        'to': None,
-        'currency': 'RUR',
-        'gross': True
+      "salary": {
+        "from": 30000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
       },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
       },
-      'address': {
-        'city': 'Рязань',
-        'street': 'Кальная улица',
-        'building': '5',
-        'lat': 54.629711,
-        'lng': 39.775137,
-        'description': None,
-        'raw': 'Рязань, Кальная улица, 5',
-        'metro': None,
-        'metro_stations': [],
-        'id': '1414103'
+      "address": {
+        "city": "\u0420\u044f\u0437\u0430\u043d\u044c",
+        "street": "\u041a\u0430\u043b\u044c\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+        "building": "5",
+        "lat": 54.629711,
+        "lng": 39.775137,
+        "description": null,
+        "raw": "\u0420\u044f\u0437\u0430\u043d\u044c, \u041a\u0430\u043b\u044c\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, 5",
+        "metro": null,
+        "metro_stations": [],
+        "id": "1414103"
       },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-04T15:31:48+0300',
-      'created_at': '2023-09-04T15:31:48+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86213456',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86213456?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86213456',
-      'relations': [],
-      'employer': {
-        'id': '3207989',
-        'name': 'enKod',
-        'url': 'https://api.hh.ru/employers/3207989',
-        'alternate_url': 'https://hh.ru/employer/3207989',
-        'logo_urls': {
-          '240': 'https://hhcdn.ru/employer-logo/3991392.png',
-          '90': 'https://hhcdn.ru/employer-logo/3991391.png',
-          'original': 'https://hhcdn.ru/employer-logo-original/887673.png'
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-07T15:31:48+0300",
+      "created_at": "2023-09-07T15:31:48+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86213456",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86213456?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86213456",
+      "relations": [],
+      "employer": {
+        "id": "3207989",
+        "name": "enKod",
+        "url": "https://api.hh.ru/employers/3207989",
+        "alternate_url": "https://hh.ru/employer/3207989",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3991392.png",
+          "90": "https://hhcdn.ru/employer-logo/3991391.png",
+          "original": "https://hhcdn.ru/employer-logo-original/887673.png"
         },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3207989',
-        'accredited_it_employer': True,
-        'trusted': True
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3207989",
+        "accredited_it_employer": true,
+        "trusted": true
       },
-      'snippet': {
-        'requirement': 'Опыт работы с Go. Пройденный GoTour. Работа с git. Примеры проектов. Опыт создания HTTP-сервисов.',
-        'responsibility': 'Создавать веб-сервисы, автоматизирующие маркетинг. Работать с высоконагруженными приложениями. Разрабатывать на Go, работать с SQL и NoSQL базами данных.'
+      "snippet": {
+        "requirement": "\u041e\u043f\u044b\u0442 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Go. \u041f\u0440\u043e\u0439\u0434\u0435\u043d\u043d\u044b\u0439 GoTour. \u0420\u0430\u0431\u043e\u0442\u0430 \u0441 git. \u041f\u0440\u0438\u043c\u0435\u0440\u044b \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432. \u041e\u043f\u044b\u0442 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f HTTP-\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432.",
+        "responsibility": "\u0421\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0432\u0435\u0431-\u0441\u0435\u0440\u0432\u0438\u0441\u044b, \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0438\u0440\u0443\u044e\u0449\u0438\u0435 \u043c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433. \u0420\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u0432\u044b\u0441\u043e\u043a\u043e\u043d\u0430\u0433\u0440\u0443\u0436\u0435\u043d\u043d\u044b\u043c\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u043c\u0438. \u0420\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0442\u044c \u043d\u0430 Go, \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 SQL \u0438 NoSQL \u0431\u0430\u0437\u0430\u043c\u0438 \u0434\u0430\u043d\u043d\u044b\u0445."
       },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
         {
-          'id': '96',
-          'name': 'Программист, разработчик'
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
         }
       ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
       },
-      'employment': {
-        'id': 'probation',
-        'name': 'Стажировка'
+      "employment": {
+        "id": "probation",
+        "name": "\u0421\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0430"
       },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
+      "adv_response_url": null,
+      "is_adv_vacancy": false
     },
     {
-      'id': '86316688',
-      'premium': False,
-      'name': 'Junior python developer/data engineer',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '66',
-        'name': 'Нижний Новгород',
-        'url': 'https://api.hh.ru/areas/66'
+      "id": "86400360",
+      "premium": false,
+      "name": "\u0421\u0442\u0430\u0436\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "url": "https://api.hh.ru/areas/1"
       },
-      'salary': {
-        'from': 40000,
-        'to': 80000,
-        'currency': 'RUR',
-        'gross': False
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
       },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': None,
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-06T10:55:53+0300',
-      'created_at': '2023-09-06T10:55:53+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86316688',
-      'branding': {
-        'type': 'CONSTRUCTOR',
-        'tariff': 'BASIC'
-      },
-      'show_logo_in_search': True,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86316688?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86316688',
-      'relations': [],
-      'employer': {
-        'id': '93051',
-        'name': 'IT-компания Lad',
-        'url': 'https://api.hh.ru/employers/93051',
-        'alternate_url': 'https://hh.ru/employer/93051',
-        'logo_urls': {
-          '240': 'https://hhcdn.ru/employer-logo/3120709.jpeg',
-          '90': 'https://hhcdn.ru/employer-logo/3120708.jpeg',
-          'original': 'https://hhcdn.ru/employer-logo-original/669894.jpg'
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-07T15:23:50+0300",
+      "created_at": "2023-09-07T15:23:50+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86400360",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86400360?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86400360",
+      "relations": [],
+      "employer": {
+        "id": "3428160",
+        "name": "HardQode",
+        "url": "https://api.hh.ru/employers/3428160",
+        "alternate_url": "https://hh.ru/employer/3428160",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/6242902.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/1155612.jpg",
+          "240": "https://hhcdn.ru/employer-logo/6242903.jpeg"
         },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=93051',
-        'accredited_it_employer': False,
-        'trusted': True
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3428160",
+        "accredited_it_employer": true,
+        "trusted": true
       },
-      'snippet': {
-        'requirement': 'Уверенное знание <highlighttext>Python</highlighttext>, git, опыт работы со Scrapy. Знание ООП, Linux, умение разбираться в чужом коде. Нацеленность на результат, внимательность...',
-        'responsibility': 'Разработка парсеров сайтов, участие в развитии продуктов компании.'
+      "snippet": {
+        "requirement": "\u0411\u0430\u0437\u043e\u0432\u044b\u0435 \u0437\u043d\u0430\u043d\u0438\u044f <highlighttext>Python</highlighttext> (>3).",
+        "responsibility": "\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 EdTech \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b. \u0414\u0435\u043b\u0430\u043b \u043a\u0430\u043a\u0438\u0435-\u0442\u043e pet-\u043f\u0440\u043e\u0435\u043a\u0442\u044b."
       },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': True,
-      'professional_roles': [
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [
         {
-          'id': '96',
-          'name': 'Программист, разработчик'
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "\u041c\u043e\u0436\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441\u043c\u0435\u043d\u0430\u043c\u0438 \u043f\u043e\u00a04\u20136 \u0447\u0430\u0441\u043e\u0432 \u0432\u00a0\u0434\u0435\u043d\u044c"
         }
       ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
+      "working_time_modes": [
+        {
+          "id": "start_after_sixteen",
+          "name": "\u041c\u043e\u0436\u043d\u043e \u043d\u0430\u0447\u0438\u043d\u0430\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u043f\u043e\u0441\u043b\u0435 16:00"
+        }
+      ],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
       },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
+      "employment": {
+        "id": "probation",
+        "name": "\u0421\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0430"
       },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
+      "adv_response_url": null,
+      "is_adv_vacancy": false
     },
     {
-      'id': '86288456',
-      'premium': False,
-      'name': 'Python разработчик junior',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '1',
-        'name': 'Москва',
-        'url': 'https://api.hh.ru/areas/1'
+      "id": "86396944",
+      "premium": false,
+      "name": "Junior \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python/Django",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "url": "https://api.hh.ru/areas/1"
       },
-      'salary': {
-        'from': 30000,
-        'to': 60000,
-        'currency': 'RUR',
-        'gross': False
+      "salary": {
+        "from": 60000,
+        "to": 80000,
+        "currency": "RUR",
+        "gross": true
       },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
       },
-      'address': {
-        'city': 'Москва',
-        'street': 'Николоямская улица',
-        'building': '28/60',
-        'lat': 55.746927,
-        'lng': 37.654727,
-        'description': None,
-        'raw': 'Москва, Николоямская улица, 28/60',
-        'metro': {
-          'station_name': 'Таганская',
-          'line_name': 'Кольцевая',
-          'station_id': '5.76',
-          'line_id': '5',
-          'lat': 55.742396,
-          'lng': 37.653334
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-07T14:38:11+0300",
+      "created_at": "2023-09-07T14:38:11+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86396944",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86396944?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86396944",
+      "relations": [],
+      "employer": {
+        "id": "3428160",
+        "name": "HardQode",
+        "url": "https://api.hh.ru/employers/3428160",
+        "alternate_url": "https://hh.ru/employer/3428160",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/6242902.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/1155612.jpg",
+          "240": "https://hhcdn.ru/employer-logo/6242903.jpeg"
         },
-        'metro_stations': [
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3428160",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0423\u043c\u0435\u043d\u0438\u0435 \u043f\u0438\u0441\u0430\u0442\u044c \u043d\u0430 <highlighttext>Python</highlighttext> (>3). \u0417\u043d\u0430\u043d\u0438\u0435 django/drf. \u0423\u043c\u0435\u043d\u0438\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 git \u0438\u043b\u0438 \u0434\u0440\u0443\u0433\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u043e\u0439 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044f \u0432\u0435\u0440\u0441\u0438\u0439. \u0423\u043c\u0435\u043d\u0438\u0435 \u043d\u0430\u043f\u0438\u0441\u0430\u0442\u044c Dockerfile...",
+        "responsibility": "\u041f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 EdTech \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u044b. \u0423\u0447\u0430\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438 \u043d\u043e\u0432\u044b\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439 \u043d\u0430\u0448\u0438\u0445 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "\u041e\u0442 1 \u0433\u043e\u0434\u0430 \u0434\u043e 3 \u043b\u0435\u0442"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86324076",
+      "premium": false,
+      "name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python (junior)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": null,
+        "to": 80000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-08T09:55:35+0300",
+      "created_at": "2023-09-08T09:55:35+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86324076",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86324076?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86324076",
+      "relations": [],
+      "employer": {
+        "id": "4872201",
+        "name": "ANABAR",
+        "url": "https://api.hh.ru/employers/4872201",
+        "alternate_url": "https://hh.ru/employer/4872201",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/6020773.png",
+          "240": "https://hhcdn.ru/employer-logo/6020774.png",
+          "original": "https://hhcdn.ru/employer-logo-original/1100040.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4872201",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0417\u043d\u0430\u043d\u0438\u0435 \u0447\u0442\u043e \u0442\u0430\u043a\u043e\u0435 swagger. \u0417\u043d\u0430\u043d\u0438\u0435 \u043a\u0430\u043a \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u044f\u043c\u0438 \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u0445 \u043d\u0430 <highlighttext>python</highlighttext> (pip/poetry/pipenv). \u041f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u043f\u0440\u043e typehints/mypy. ",
+        "responsibility": "\u041d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043c\u0438\u043a\u0440\u043e\u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432 \u0434\u043b\u044f \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432 (\u0444\u043e\u0440\u043c\u0438\u0440\u0443\u044e\u0442 \u0445\u0438\u0442\u0440\u044b\u0439 \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439 \u0437\u0430\u043f\u0440\u043e\u0441 \u0432 \u0411\u0414, \u043e\u0431\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 <highlighttext>python</highlighttext> \u0438 \u043e\u0442\u0434\u0430\u0435\u0442 \u0432 <highlighttext>python</highlighttext>). "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "84973033",
+      "premium": false,
+      "name": "Python Backend \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "\u0410\u043b\u043c\u0430\u0442\u044b",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 400000,
+        "to": 600000,
+        "currency": "KZT",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-08-12T12:52:28+0300",
+      "created_at": "2023-08-12T12:52:28+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84973033",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/84973033?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/84973033",
+      "relations": [],
+      "employer": {
+        "id": "5844586",
+        "name": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432",
+        "url": "https://api.hh.ru/employers/5844586",
+        "alternate_url": "https://hh.ru/employer/5844586",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/909771.png",
+          "240": "https://hhcdn.ru/employer-logo/4079772.png",
+          "90": "https://hhcdn.ru/employer-logo/4079771.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5844586",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u041d\u0430\u0432\u044b\u043a\u0438: [\u0411\u0443\u0434\u0435\u0442 \u043f\u043b\u044e\u0441\u043e\u043c] \u0417\u043d\u0430\u0442\u044c \u0438 \u043f\u043e\u043d\u0438\u043c\u0430\u0442\u044c, \u043a\u0430\u043a \u0441\u0442\u0440\u043e\u0438\u0442\u0441\u044f \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 Telegram \u0431\u043e\u0442\u043e\u0432. [\u0411\u0443\u0434\u0435\u0442 \u043f\u043b\u044e\u0441\u043e\u043c] \u041d\u0430\u043b\u0438\u0447\u0438\u0435 \u043e\u043f\u044b\u0442\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441...",
+        "responsibility": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043d\u043e\u0432\u044b\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432. \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0437\u0430\u043f\u0443\u0449\u0435\u043d\u043d\u044b\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432. \u041e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u0435 \u043d\u043e\u0432\u044b\u0445 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 \u043e\u0442 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432 \u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u0439. \u041f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u044c \u0440\u0435\u0448\u0435\u043d\u0438\u0435 \u043f\u043e \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u0435 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "\u041e\u0442 1 \u0433\u043e\u0434\u0430 \u0434\u043e 3 \u043b\u0435\u0442"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "85628220",
+      "premium": false,
+      "name": "Web-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 - \u0441\u0442\u0430\u0436\u0435\u0440",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "\u0410\u043b\u043c\u0430\u0442\u044b",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": {
+        "city": "\u0410\u043b\u043c\u0430\u0442\u044b",
+        "street": "\u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0410\u043b\u043c\u0430\u0433\u0443\u043b\u044c",
+        "building": "23\u0410",
+        "lat": 43.206069,
+        "lng": 76.900792,
+        "description": null,
+        "raw": "\u0410\u043b\u043c\u0430\u0442\u044b, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0410\u043b\u043c\u0430\u0433\u0443\u043b\u044c, 23\u0410",
+        "metro": null,
+        "metro_stations": [],
+        "id": "13753883"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-08-23T11:43:57+0300",
+      "created_at": "2023-08-23T11:43:57+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=85628220",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/85628220?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/85628220",
+      "relations": [],
+      "employer": {
+        "id": "5031522",
+        "name": "Autodata",
+        "url": "https://api.hh.ru/employers/5031522",
+        "alternate_url": "https://hh.ru/employer/5031522",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5031522",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0417\u043d\u0430\u0442\u044c \u0442\u0435\u043e\u0440\u0438\u044e \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u0447\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u0442\u0435\u0441\u0442 \u043f\u043b\u0430\u043d\u044b, \u0447\u0435\u043a \u043b\u0438\u0441\u0442\u044b \u0438 \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e \u0432\u043b\u0430\u0434\u0435\u0442\u044c \u042f\u041f <highlighttext>Python</highlighttext>, \u0431\u044b\u0442\u044c \u043f\u0440\u0438\u0441\u043f\u043e\u0441\u043e\u0431\u043b\u0435\u043d\u043d\u044b\u043c \u043a \u043c\u043e\u043d\u043e\u0442\u043e\u043d\u043d\u043e\u0439...",
+        "responsibility": "\u041a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 git-\u043e\u043c \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0435. \u041f\u0438\u0441\u0430\u0442\u044c \u0430\u0432\u0442\u043e\u0442\u0435\u0441\u0442\u044b \u043d\u0430 \u0431\u0430\u0437\u0435 Selenium/<highlighttext>Python</highlighttext> (\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0449\u0438\u043a). \u0421\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c web-\u0434\u0438\u0437\u0430\u0439\u043d\u044b \u0434\u043b\u044f \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0445..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "probation",
+        "name": "\u0421\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0430"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86292426",
+      "premium": false,
+      "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 70000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-05T21:35:30+0300",
+      "created_at": "2023-09-05T21:35:30+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86292426",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86292426?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86292426",
+      "relations": [],
+      "employer": {
+        "id": "10091282",
+        "name": "MedMundus",
+        "url": "https://api.hh.ru/employers/10091282",
+        "alternate_url": "https://hh.ru/employer/10091282",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=10091282",
+        "accredited_it_employer": false,
+        "trusted": false
+      },
+      "snippet": {
+        "requirement": "\u041e\u043f\u044b\u0442 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f ORM \u0438 \u043f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u043e\u0432 \u043f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u044f SQL \u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432. - \u041e\u043f\u044b\u0442 CI/CD <highlighttext>Python</highlighttext> \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439. - \u041e\u043f\u044b\u0442 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432 \u0441 \u043d\u0443\u043b\u044f / \u0441...",
+        "responsibility": "\u041c\u044b \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u043c \u043d\u0430\u0434 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435\u043c \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0443 \u0434\u043b\u044f \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043c\u0435\u0434 \u0443\u0441\u043b\u0443\u0433 \u043e\u043d\u043b\u0430\u0439\u043d \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u0442\u0435\u043b\u0435\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0443 \u0434\u043b\u044f \u0430\u0437\u0438\u0430\u0442\u0441\u043a\u043e\u0433\u043e \u0440\u0435\u0433\u0438\u043e\u043d\u0430, \u0441\u0442\u0440\u043e\u0438\u043c \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u044b \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u043a\u0430\u043a \u043c\u0435\u0434..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "\u041e\u0442 1 \u0433\u043e\u0434\u0430 \u0434\u043e 3 \u043b\u0435\u0442"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86316688",
+      "premium": false,
+      "name": "Junior python developer/data engineer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "\u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 40000,
+        "to": 80000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-06T10:55:53+0300",
+      "created_at": "2023-09-06T10:55:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86316688",
+      "branding": {
+        "type": "CONSTRUCTOR",
+        "tariff": "BASIC"
+      },
+      "show_logo_in_search": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86316688?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86316688",
+      "relations": [],
+      "employer": {
+        "id": "93051",
+        "name": "IT-\u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f Lad",
+        "url": "https://api.hh.ru/employers/93051",
+        "alternate_url": "https://hh.ru/employer/93051",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3120709.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/3120708.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/669894.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=93051",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0423\u0432\u0435\u0440\u0435\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u043d\u0438\u0435 <highlighttext>Python</highlighttext>, git, \u043e\u043f\u044b\u0442 \u0440\u0430\u0431\u043e\u0442\u044b \u0441\u043e Scrapy. \u0417\u043d\u0430\u043d\u0438\u0435 \u041e\u041e\u041f, Linux, \u0443\u043c\u0435\u043d\u0438\u0435 \u0440\u0430\u0437\u0431\u0438\u0440\u0430\u0442\u044c\u0441\u044f \u0432 \u0447\u0443\u0436\u043e\u043c \u043a\u043e\u0434\u0435. \u041d\u0430\u0446\u0435\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043d\u0430 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442, \u0432\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c...",
+        "responsibility": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u0430\u0440\u0441\u0435\u0440\u043e\u0432 \u0441\u0430\u0439\u0442\u043e\u0432, \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0438 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86420017",
+      "premium": false,
+      "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442-\u0441\u0442\u0430\u0436\u0435\u0440",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": null,
+        "lng": null,
+        "description": null,
+        "raw": null,
+        "metro": {
+          "station_name": "\u0411\u0430\u0443\u043c\u0430\u043d\u0441\u043a\u0430\u044f",
+          "line_name": "\u0410\u0440\u0431\u0430\u0442\u0441\u043a\u043e-\u041f\u043e\u043a\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
+          "station_id": "3.17",
+          "line_id": "3",
+          "lat": 55.772405,
+          "lng": 37.67904
+        },
+        "metro_stations": [
           {
-            'station_name': 'Таганская',
-            'line_name': 'Кольцевая',
-            'station_id': '5.76',
-            'line_id': '5',
-            'lat': 55.742396,
-            'lng': 37.653334
+            "station_name": "\u0411\u0430\u0443\u043c\u0430\u043d\u0441\u043a\u0430\u044f",
+            "line_name": "\u0410\u0440\u0431\u0430\u0442\u0441\u043a\u043e-\u041f\u043e\u043a\u0440\u043e\u0432\u0441\u043a\u0430\u044f",
+            "station_id": "3.17",
+            "line_id": "3",
+            "lat": 55.772405,
+            "lng": 37.67904
           }
         ],
-        'id': '878076'
+        "id": "658895"
       },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-05T18:11:05+0300',
-      'created_at': '2023-09-05T18:11:05+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86288456',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86288456?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86288456',
-      'relations': [],
-      'employer': {
-        'id': '999442',
-        'name': 'amoCRM',
-        'url': 'https://api.hh.ru/employers/999442',
-        'alternate_url': 'https://hh.ru/employer/999442',
-        'logo_urls': {
-          'original': 'https://hhcdn.ru/employer-logo-original/1034062.png',
-          '240': 'https://hhcdn.ru/employer-logo/5757009.png',
-          '90': 'https://hhcdn.ru/employer-logo/5757008.png'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=999442',
-        'accredited_it_employer': True,
-        'trusted': True
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-08T00:09:50+0300",
+      "created_at": "2023-09-08T00:09:50+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86420017",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86420017?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86420017",
+      "relations": [],
+      "employer": {
+        "id": "2232383",
+        "name": "\u0410\u041b\u042c\u0424\u0410\u0421\u0410\u0422\u041a\u041e\u041c",
+        "url": "https://api.hh.ru/employers/2232383",
+        "alternate_url": "https://hh.ru/employer/2232383",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2232383",
+        "accredited_it_employer": false,
+        "trusted": true
       },
-      'snippet': {
-        'requirement': 'Знали <highlighttext>Python</highlighttext>. Работали с Django. Работали с Redis. Работали с Celery. Работали с MySQL. Работали с Git. Работали с Linux. ',
-        'responsibility': 'Создание мониторингов. Исправление критических ошибок, используя автоматизации. Работа с бекапами. Составление схем взаимодействия между сервисами. Написание проектов по автоматизации работы.'
+      "snippet": {
+        "requirement": "\u041e\u0431\u0443\u0447\u0435\u043d\u0438\u0435 \u0432 \u0432\u044b\u0441\u0448\u0435\u043c \u0443\u0447\u0435\u0431\u043d\u043e\u043c \u0437\u0430\u0432\u0435\u0434\u0435\u043d\u0438\u0438 \u043f\u043e \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 \u0438/\u0438\u043b\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 \u0438/\u0438\u043b\u0438 \u0418\u0422 \u0438 \u0441\u0432\u044f\u0437\u044c. \u0416\u0435\u043b\u0430\u043d\u0438\u0435 \u0443\u0447\u0438\u0442\u044c\u0441\u044f \u0438...",
+        "responsibility": "\u0412\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u0439, \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0435 \u043a\u043e\u043d\u0441\u0443\u043b\u044c\u0442\u0430\u0446\u0438\u0439 \u043e\u0442 \u043e\u043f\u044b\u0442\u043d\u044b\u0445 \u0441\u043f\u0435\u0446\u0438\u0430\u043b\u0438\u0441\u0442\u043e\u0432. \u0418\u0437\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u043d\u0430 <highlighttext>Python</highlighttext> JavaScript. \u0418\u0437\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043d\u0430\u0432\u044b\u043a\u043e\u0432 \u0440\u0430\u0431\u043e\u0442\u044b..."
       },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [
         {
-          'id': '96',
-          'name': 'Программист, разработчик'
+          "id": "start_after_sixteen",
+          "name": "\u041c\u043e\u0436\u043d\u043e \u043d\u0430\u0447\u0438\u043d\u0430\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u043f\u043e\u0441\u043b\u0435 16:00"
         }
       ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '86297660',
-      'premium': False,
-      'name': 'Junior Python Developer',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '2',
-        'name': 'Санкт-Петербург',
-        'url': 'https://api.hh.ru/areas/2'
-      },
-      'salary': {
-        'from': 1300,
-        'to': None,
-        'currency': 'USD',
-        'gross': False
-      },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': None,
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-06T05:06:29+0300',
-      'created_at': '2023-09-06T05:06:29+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86297660',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86297660?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86297660',
-      'relations': [],
-      'employer': {
-        'id': '3551849',
-        'name': 'FinSTC Software LLC',
-        'url': 'https://api.hh.ru/employers/3551849',
-        'alternate_url': 'https://hh.ru/employer/3551849',
-        'logo_urls': {
-          '240': 'https://hhcdn.ru/employer-logo/2669950.png',
-          '90': 'https://hhcdn.ru/employer-logo/2669949.png',
-          'original': 'https://hhcdn.ru/employer-logo-original/557119.png'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3551849',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Базовые: <highlighttext>Python</highlighttext>. Знания в SQL (MS SQL / PL SQL). Английский (средний, профессиональная терминология). Будет плюсом: Azure. Английский (разговорный). Знание Git. ',
-        'responsibility': 'В рамках работы вы будете выполнять следующие задачи: Написание кода на <highlighttext>Python</highlighttext> и рулов (наборов команд) в формате XML/JSON...'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
+      "accept_temporary": false,
+      "professional_roles": [
         {
-          'id': '96',
-          'name': 'Программист, разработчик'
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
         }
       ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
       },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
+      "employment": {
+        "id": "part",
+        "name": "\u0427\u0430\u0441\u0442\u0438\u0447\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
       },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
+      "adv_response_url": null,
+      "is_adv_vacancy": false
     },
     {
-      'id': '86292426',
-      'premium': False,
-      'name': 'Программист Python',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '1',
-        'name': 'Москва',
-        'url': 'https://api.hh.ru/areas/1'
+      "id": "86372853",
+      "premium": false,
+      "name": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python Junior",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "26",
+        "name": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436",
+        "url": "https://api.hh.ru/areas/26"
       },
-      'salary': {
-        'from': 70000,
-        'to': None,
-        'currency': 'RUR',
-        'gross': False
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
       },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
+      "address": {
+        "city": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436",
+        "street": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0422\u0440\u0443\u0434\u0430",
+        "building": "46/1",
+        "lat": 51.681832,
+        "lng": 39.180057,
+        "description": null,
+        "raw": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0422\u0440\u0443\u0434\u0430, 46/1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "7748158"
       },
-      'address': None,
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-05T21:35:30+0300',
-      'created_at': '2023-09-05T21:35:30+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86292426',
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86292426?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86292426',
-      'relations': [],
-      'employer': {
-        'id': '10091282',
-        'name': 'MedMundus',
-        'url': 'https://api.hh.ru/employers/10091282',
-        'alternate_url': 'https://hh.ru/employer/10091282',
-        'logo_urls': None,
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10091282',
-        'accredited_it_employer': False,
-        'trusted': False
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-07T10:09:14+0300",
+      "created_at": "2023-09-07T10:09:14+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86372853",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86372853?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86372853",
+      "relations": [],
+      "employer": {
+        "id": "8881046",
+        "name": "\u041d\u0443\u043c\u0435\u0434\u0438",
+        "url": "https://api.hh.ru/employers/8881046",
+        "alternate_url": "https://hh.ru/employer/8881046",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/5479109.png",
+          "90": "https://hhcdn.ru/employer-logo/5479108.png",
+          "original": "https://hhcdn.ru/employer-logo-original/965401.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8881046",
+        "accredited_it_employer": false,
+        "trusted": true
       },
-      'snippet': {
-        'requirement': 'Опыт использования ORM и понимание принципов построения SQL запросов. - Опыт CI/CD <highlighttext>Python</highlighttext> приложений. - Опыт разработки продуктов с нуля / с...',
-        'responsibility': 'Мы работаем над созданием платформу для предоставления мед услуг онлайн включая телемедицину для азиатского региона, строим процессы подключения как мед...'
+      "snippet": {
+        "requirement": "\u0423\u0432\u0435\u0440\u0435\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u043d\u0438\u0435 <highlighttext>python</highlighttext>3. \u0411\u0430\u0437\u043e\u0432\u044b\u0435 \u043d\u0430\u0432\u044b\u043a\u0438 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f linux. \u041e\u043f\u044b\u0442 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u043e\u0434\u043d\u0438\u043c \u0438\u043b\u0438 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u043c <highlighttext>python</highlighttext> web framework: Django, flask, FastAPI...",
+        "responsibility": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0441\u0435\u0440\u0432\u0438\u0441\u043d\u044b\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u043d\u0430 \u044f\u0437\u044b\u043a\u0435 <highlighttext>python</highlighttext> 3.8+. \u0420\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u043e\u0432 \u043f\u043e \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430\u043c HTTP/HTTPS. \u0420\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f API. \u0420\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u0438..."
       },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
         {
-          'id': '96',
-          'name': 'Программист, разработчик'
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
         }
       ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'between1And3',
-        'name': 'От 1 года до 3 лет'
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "\u041e\u0442 1 \u0433\u043e\u0434\u0430 \u0434\u043e 3 \u043b\u0435\u0442"
       },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
       },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
+      "adv_response_url": null,
+      "is_adv_vacancy": false
     },
     {
-      'id': '86309826',
-      'premium': False,
-      'name': 'Программист Python/Django',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '1002',
-        'name': 'Минск',
-        'url': 'https://api.hh.ru/areas/1002'
+      "id": "86288456",
+      "premium": false,
+      "name": "Python \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a junior",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "url": "https://api.hh.ru/areas/1"
       },
-      'salary': None,
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
+      "salary": {
+        "from": 30000,
+        "to": 60000,
+        "currency": "RUR",
+        "gross": false
       },
-      'address': {
-        'city': 'агрогородок Колодищи',
-        'street': None,
-        'building': 'станция Колодищи',
-        'lat': 53.945587,
-        'lng': 27.77528,
-        'description': None,
-        'raw': 'агрогородок Колодищи, станция Колодищи',
-        'metro': None,
-        'metro_stations': [],
-        'id': '14173677'
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
       },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-06T09:49:27+0300',
-      'created_at': '2023-09-06T09:49:27+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86309826',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86309826?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86309826',
-      'relations': [],
-      'employer': {
-        'id': '5401633',
-        'name': 'Граундтек',
-        'url': 'https://api.hh.ru/employers/5401633',
-        'alternate_url': 'https://hh.ru/employer/5401633',
-        'logo_urls': {
-          '240': 'https://hhcdn.ru/employer-logo/5782157.jpeg',
-          '90': 'https://hhcdn.ru/employer-logo/5782156.jpeg',
-          'original': 'https://hhcdn.ru/employer-logo-original/1040350.jpg'
+      "address": {
+        "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "street": "\u041d\u0438\u043a\u043e\u043b\u043e\u044f\u043c\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+        "building": "28/60",
+        "lat": 55.746927,
+        "lng": 37.654727,
+        "description": null,
+        "raw": "\u041c\u043e\u0441\u043a\u0432\u0430, \u041d\u0438\u043a\u043e\u043b\u043e\u044f\u043c\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, 28/60",
+        "metro": {
+          "station_name": "\u0422\u0430\u0433\u0430\u043d\u0441\u043a\u0430\u044f",
+          "line_name": "\u041a\u043e\u043b\u044c\u0446\u0435\u0432\u0430\u044f",
+          "station_id": "5.76",
+          "line_id": "5",
+          "lat": 55.742396,
+          "lng": 37.653334
         },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5401633',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Уверенное знание <highlighttext>Python</highlighttext>/Django. Работа с БД PostgreSQL, Git, Rest API. Наличие навыков работы JS, HTML и CSS. ',
-        'responsibility': 'Разработка и сопровождение прикладных систем и сетевых сервисов.'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '96',
-          'name': 'Программист, разработчик'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '86277729',
-      'premium': False,
-      'name': 'Python разработчик',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '212',
-        'name': 'Тольятти',
-        'url': 'https://api.hh.ru/areas/212'
-      },
-      'salary': {
-        'from': 50000,
-        'to': 80000,
-        'currency': 'RUR',
-        'gross': False
-      },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': None,
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-05T15:27:57+0300',
-      'created_at': '2023-09-05T15:27:57+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86277729',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86277729?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86277729',
-      'relations': [],
-      'employer': {
-        'id': '2676492',
-        'name': 'Альфа Лайн',
-        'url': 'https://api.hh.ru/employers/2676492',
-        'alternate_url': 'https://hh.ru/employer/2676492',
-        'logo_urls': {
-          'original': 'https://hhcdn.ru/employer-logo-original/524959.png',
-          '240': 'https://hhcdn.ru/employer-logo/2541314.png',
-          '90': 'https://hhcdn.ru/employer-logo/2541313.png'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2676492',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Уверенное знание <highlighttext>Python</highlighttext> 3. Богатый опыт работы с Django, FastAPI. Уверенный пользователь git, docker.',
-        'responsibility': '...языке <highlighttext>Python</highlighttext>. В основном пишем API для фронтенда (FastAPI) и используем Django как админку и ORM для API. Бэкенд – <highlighttext>Python</highlighttext>...'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': True,
-      'professional_roles': [
-        {
-          'id': '96',
-          'name': 'Программист, разработчик'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'between1And3',
-        'name': 'От 1 года до 3 лет'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '86306225',
-      'premium': False,
-      'name': 'Junior Python Developer',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '3',
-        'name': 'Екатеринбург',
-        'url': 'https://api.hh.ru/areas/3'
-      },
-      'salary': None,
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': {
-        'city': 'Екатеринбург',
-        'street': 'Сибирский тракт',
-        'building': '12к7',
-        'lat': 56.819306,
-        'lng': 60.65158,
-        'description': None,
-        'raw': 'Екатеринбург, Сибирский тракт, 12к7',
-        'metro': {
-          'station_name': 'Ботаническая',
-          'line_name': 'Север-Юг',
-          'station_id': '48.270',
-          'line_id': '48',
-          'lat': 56.797487,
-          'lng': 60.633362
-        },
-        'metro_stations': [
+        "metro_stations": [
           {
-            'station_name': 'Ботаническая',
-            'line_name': 'Север-Юг',
-            'station_id': '48.270',
-            'line_id': '48',
-            'lat': 56.797487,
-            'lng': 60.633362
+            "station_name": "\u0422\u0430\u0433\u0430\u043d\u0441\u043a\u0430\u044f",
+            "line_name": "\u041a\u043e\u043b\u044c\u0446\u0435\u0432\u0430\u044f",
+            "station_id": "5.76",
+            "line_id": "5",
+            "lat": 55.742396,
+            "lng": 37.653334
+          }
+        ],
+        "id": "878076"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-08T18:11:05+0300",
+      "created_at": "2023-09-08T18:11:05+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86288456",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86288456?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86288456",
+      "relations": [],
+      "employer": {
+        "id": "999442",
+        "name": "amoCRM",
+        "url": "https://api.hh.ru/employers/999442",
+        "alternate_url": "https://hh.ru/employer/999442",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/1034062.png",
+          "240": "https://hhcdn.ru/employer-logo/5757009.png",
+          "90": "https://hhcdn.ru/employer-logo/5757008.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=999442",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0417\u043d\u0430\u043b\u0438 <highlighttext>Python</highlighttext>. \u0420\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u0441 Django. \u0420\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u0441 Redis. \u0420\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u0441 Celery. \u0420\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u0441 MySQL. \u0420\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u0441 Git. \u0420\u0430\u0431\u043e\u0442\u0430\u043b\u0438 \u0441 Linux. ",
+        "responsibility": "\u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043c\u043e\u043d\u0438\u0442\u043e\u0440\u0438\u043d\u0433\u043e\u0432. \u0418\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u043a\u0440\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043e\u0448\u0438\u0431\u043e\u043a, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438. \u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0431\u0435\u043a\u0430\u043f\u0430\u043c\u0438. \u0421\u043e\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0441\u0445\u0435\u043c \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u043c\u0435\u0436\u0434\u0443 \u0441\u0435\u0440\u0432\u0438\u0441\u0430\u043c\u0438. \u041d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432 \u043f\u043e \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0437\u0430\u0446\u0438\u0438 \u0440\u0430\u0431\u043e\u0442\u044b."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86410407",
+      "premium": false,
+      "name": "Junior Python Developer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "3",
+        "name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+        "url": "https://api.hh.ru/areas/3"
+      },
+      "salary": {
+        "from": 40000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": {
+        "city": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433",
+        "street": "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041b\u0435\u043d\u0438\u043d\u0430",
+        "building": "8",
+        "lat": 56.83617,
+        "lng": 60.586093,
+        "description": null,
+        "raw": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041b\u0435\u043d\u0438\u043d\u0430, 8",
+        "metro": {
+          "station_name": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c 1905 \u0433\u043e\u0434\u0430",
+          "line_name": "\u0421\u0435\u0432\u0435\u0440-\u042e\u0433",
+          "station_id": "48.266",
+          "line_id": "48",
+          "lat": 56.837982,
+          "lng": 60.59734
+        },
+        "metro_stations": [
+          {
+            "station_name": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c 1905 \u0433\u043e\u0434\u0430",
+            "line_name": "\u0421\u0435\u0432\u0435\u0440-\u042e\u0433",
+            "station_id": "48.266",
+            "line_id": "48",
+            "lat": 56.837982,
+            "lng": 60.59734
+          }
+        ],
+        "id": "12504173"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-07T16:41:53+0300",
+      "created_at": "2023-09-07T16:41:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86410407",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86410407?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86410407",
+      "relations": [],
+      "employer": {
+        "id": "4008355",
+        "name": "\u041c\u043e\u0443\u0448\u0435\u043d \u041b\u043e\u0434\u0436\u0438\u043a",
+        "url": "https://api.hh.ru/employers/4008355",
+        "alternate_url": "https://hh.ru/employer/4008355",
+        "logo_urls": {
+          "90": "https://hhcdn.ru/employer-logo/6256654.png",
+          "original": "https://hhcdn.ru/employer-logo-original/1159051.png",
+          "240": "https://hhcdn.ru/employer-logo/6256655.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4008355",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0417\u043d\u0430\u043d\u0438\u0435 <highlighttext>Python</highlighttext> 3. \u041e\u043f\u044b\u0442 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 ORM (Django ORM, Peewee). \u041d\u0430\u0432\u044b\u043a\u0438 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u0411\u0414 (PostgreSQL, Mongo). \u0411\u0443\u0434\u0435\u0442 \u043f\u043b\u044e\u0441\u043e\u043c: \u041d\u0430\u0432\u044b\u043a\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438...",
+        "responsibility": "\u0421\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043d\u043e\u0432\u044b\u0445 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0445 \u0444\u0438\u0447. \u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u0442\u0435\u043a\u0443\u0449\u0435\u0439 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438. \u041d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0442\u0435\u0441\u0442\u043e\u0432. \u041e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432 \u043f\u043e\u0434 \u0432\u044b\u0441\u043e\u043a\u0438\u0435 \u043d\u0430\u0433\u0440\u0443\u0437\u043a\u0438. \u0421\u0442\u0435\u043a \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0439 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439:"
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "\u041e\u0442 1 \u0433\u043e\u0434\u0430 \u0434\u043e 3 \u043b\u0435\u0442"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86320517",
+      "premium": false,
+      "name": "\u041d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a Python",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "177",
+        "name": "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0430",
+        "url": "https://api.hh.ru/areas/177"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": {
+        "city": "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0430",
+        "street": "\u0443\u043b\u0438\u0446\u0430 \u0410\u0431\u0430\u044f",
+        "building": "81/3",
+        "lat": 49.814166,
+        "lng": 73.111788,
+        "description": null,
+        "raw": "\u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0430, \u0443\u043b\u0438\u0446\u0430 \u0410\u0431\u0430\u044f, 81/3",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5231863"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-06T11:34:11+0300",
+      "created_at": "2023-09-06T11:34:11+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86320517",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86320517?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86320517",
+      "relations": [],
+      "employer": {
+        "id": "5090796",
+        "name": "SimpleCode",
+        "url": "https://api.hh.ru/employers/5090796",
+        "alternate_url": "https://hh.ru/employer/5090796",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/6060926.png",
+          "90": "https://hhcdn.ru/employer-logo/6060925.png",
+          "original": "https://hhcdn.ru/employer-logo-original/1110081.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5090796",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0418\u043c\u0435\u043b\u0438 \u0431\u0430\u0437\u043e\u0432\u044b\u0435 \u0437\u043d\u0430\u043d\u0438\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441 Linux (\u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b). \u0423\u043c\u0435\u043b\u0438 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u0446\u0438\u0435\u0439 \u043a <highlighttext>Python</highlighttext> \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430\u043c. \u0411\u044b\u043b\u0438 \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c\u0438 \u0438 \u0441\u0430\u043c\u043e\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u043d\u044b\u043c\u0438. ",
+        "responsibility": "\u041e\u0441\u0432\u043e\u0435\u043d\u0438\u0435 \u043e\u0441\u043d\u043e\u0432 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0447\u0430\u0442-\u0431\u043e\u0442\u043e\u0432 \u0438 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 API \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440\u0430 Telegram. \u0418\u0437\u0443\u0447\u0435\u043d\u0438\u0435 \u0431\u0430\u0437\u043e\u0432\u044b\u0445 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0438\u0439 \u043c\u0430\u0448\u0438\u043d\u043d\u043e\u0433\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f \u0438 \u0433\u043b\u0443\u0431\u043e\u043a\u043e\u0433\u043e \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f. "
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86297660",
+      "premium": false,
+      "name": "Junior Python Developer",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": 1300,
+        "to": null,
+        "currency": "USD",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-06T05:06:29+0300",
+      "created_at": "2023-09-06T05:06:29+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86297660",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86297660?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86297660",
+      "relations": [],
+      "employer": {
+        "id": "3551849",
+        "name": "FinSTC Software LLC",
+        "url": "https://api.hh.ru/employers/3551849",
+        "alternate_url": "https://hh.ru/employer/3551849",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/2669950.png",
+          "90": "https://hhcdn.ru/employer-logo/2669949.png",
+          "original": "https://hhcdn.ru/employer-logo-original/557119.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3551849",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0411\u0430\u0437\u043e\u0432\u044b\u0435: <highlighttext>Python</highlighttext>. \u0417\u043d\u0430\u043d\u0438\u044f \u0432 SQL (MS SQL / PL SQL). \u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 (\u0441\u0440\u0435\u0434\u043d\u0438\u0439, \u043f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0442\u0435\u0440\u043c\u0438\u043d\u043e\u043b\u043e\u0433\u0438\u044f). \u0411\u0443\u0434\u0435\u0442 \u043f\u043b\u044e\u0441\u043e\u043c: Azure. \u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 (\u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u044b\u0439). \u0417\u043d\u0430\u043d\u0438\u0435 Git. ",
+        "responsibility": "\u0412 \u0440\u0430\u043c\u043a\u0430\u0445 \u0440\u0430\u0431\u043e\u0442\u044b \u0432\u044b \u0431\u0443\u0434\u0435\u0442\u0435 \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u0442\u044c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0435 \u0437\u0430\u0434\u0430\u0447\u0438: \u041d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043a\u043e\u0434\u0430 \u043d\u0430 <highlighttext>Python</highlighttext> \u0438 \u0440\u0443\u043b\u043e\u0432 (\u043d\u0430\u0431\u043e\u0440\u043e\u0432 \u043a\u043e\u043c\u0430\u043d\u0434) \u0432 \u0444\u043e\u0440\u043c\u0430\u0442\u0435 XML/JSON..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86309826",
+      "premium": false,
+      "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python/Django",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1002",
+        "name": "\u041c\u0438\u043d\u0441\u043a",
+        "url": "https://api.hh.ru/areas/1002"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": {
+        "city": "\u0430\u0433\u0440\u043e\u0433\u043e\u0440\u043e\u0434\u043e\u043a \u041a\u043e\u043b\u043e\u0434\u0438\u0449\u0438",
+        "street": null,
+        "building": "\u0441\u0442\u0430\u043d\u0446\u0438\u044f \u041a\u043e\u043b\u043e\u0434\u0438\u0449\u0438",
+        "lat": 53.945587,
+        "lng": 27.77528,
+        "description": null,
+        "raw": "\u0430\u0433\u0440\u043e\u0433\u043e\u0440\u043e\u0434\u043e\u043a \u041a\u043e\u043b\u043e\u0434\u0438\u0449\u0438, \u0441\u0442\u0430\u043d\u0446\u0438\u044f \u041a\u043e\u043b\u043e\u0434\u0438\u0449\u0438",
+        "metro": null,
+        "metro_stations": [],
+        "id": "14173677"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-06T09:49:27+0300",
+      "created_at": "2023-09-06T09:49:27+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86309826",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86309826?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86309826",
+      "relations": [],
+      "employer": {
+        "id": "5401633",
+        "name": "\u0413\u0440\u0430\u0443\u043d\u0434\u0442\u0435\u043a",
+        "url": "https://api.hh.ru/employers/5401633",
+        "alternate_url": "https://hh.ru/employer/5401633",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/5782157.jpeg",
+          "90": "https://hhcdn.ru/employer-logo/5782156.jpeg",
+          "original": "https://hhcdn.ru/employer-logo-original/1040350.jpg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5401633",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0423\u0432\u0435\u0440\u0435\u043d\u043d\u043e\u0435 \u0437\u043d\u0430\u043d\u0438\u0435 <highlighttext>Python</highlighttext>/Django. \u0420\u0430\u0431\u043e\u0442\u0430 \u0441 \u0411\u0414 PostgreSQL, Git, Rest API. \u041d\u0430\u043b\u0438\u0447\u0438\u0435 \u043d\u0430\u0432\u044b\u043a\u043e\u0432 \u0440\u0430\u0431\u043e\u0442\u044b JS, HTML \u0438 CSS. ",
+        "responsibility": "\u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u0438 \u0441\u043e\u043f\u0440\u043e\u0432\u043e\u0436\u0434\u0435\u043d\u0438\u0435 \u043f\u0440\u0438\u043a\u043b\u0430\u0434\u043d\u044b\u0445 \u0441\u0438\u0441\u0442\u0435\u043c \u0438 \u0441\u0435\u0442\u0435\u0432\u044b\u0445 \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86470982",
+      "premium": false,
+      "name": "Fullstack \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a (\u0441\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0430)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 20000,
+        "to": 20000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-08T18:35:24+0300",
+      "created_at": "2023-09-08T18:35:24+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86470982",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86470982?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86470982",
+      "relations": [],
+      "employer": {
+        "id": "5413687",
+        "name": "\u0418\u043d\u0432\u0435\u043d\u0442\u0438\u043a",
+        "url": "https://api.hh.ru/employers/5413687",
+        "alternate_url": "https://hh.ru/employer/5413687",
+        "logo_urls": {
+          "original": "https://hhcdn.ru/employer-logo-original/939519.png",
+          "240": "https://hhcdn.ru/employer-logo/4198621.png",
+          "90": "https://hhcdn.ru/employer-logo/4198620.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5413687",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u041f\u0440\u043e\u0435\u043a\u0442 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432 \u0440\u0435\u0436\u0438\u043c\u0435 \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f full-stack \u0441\u0442\u0430\u0436\u0451\u0440, \u043a\u0442\u043e \u0441\u043c\u043e\u0433 \u0431\u044b \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u043e\u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u043f\u0440\u043e\u0435\u043a\u0442\u0430. \u0415\u0441\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0432 \u0445\u043e\u0440\u043e\u0448\u0435\u043c...",
+        "responsibility": "\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u043e\u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0440\u0435\u0441\u0443\u0440\u0441\u0430. \u0427\u0438\u043d\u0438\u0442\u044c \u0431\u0430\u0433\u0438 \u043d\u0430 \u0431\u044d\u043a\u0435 (\u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c) \u0438 \u043d\u0430 \u0444\u0440\u043e\u043d\u0442\u0435 (\u0438\u043d\u043e\u0433\u0434\u0430). Back-end: <highlighttext>Python</highlighttext> - Django."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "\u041d\u0435\u0442 \u043e\u043f\u044b\u0442\u0430"
+      },
+      "employment": {
+        "id": "probation",
+        "name": "\u0421\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0430"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86286426",
+      "premium": false,
+      "name": "Junior React \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1545",
+        "name": "\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u043a\u0430\u0441\u0441\u043a",
+        "url": "https://api.hh.ru/areas/1545"
+      },
+      "salary": {
+        "from": 50000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": {
+        "city": "\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u043a\u0430\u0441\u0441\u043a",
+        "street": "\u0428\u043a\u043e\u043b\u044c\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430",
+        "building": "1\u0410/69\u0410",
+        "lat": 47.421217,
+        "lng": 40.102321,
+        "description": null,
+        "raw": "\u041d\u043e\u0432\u043e\u0447\u0435\u0440\u043a\u0430\u0441\u0441\u043a, \u0428\u043a\u043e\u043b\u044c\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, 1\u0410/69\u0410",
+        "metro": null,
+        "metro_stations": [],
+        "id": "7552195"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-05T17:31:33+0300",
+      "created_at": "2023-09-05T17:31:33+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86286426",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86286426?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86286426",
+      "relations": [],
+      "employer": {
+        "id": "6120481",
+        "name": "Fortech",
+        "url": "https://api.hh.ru/employers/6120481",
+        "alternate_url": "https://hh.ru/employer/6120481",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/5493205.png",
+          "90": "https://hhcdn.ru/employer-logo/5493204.png",
+          "original": "https://hhcdn.ru/employer-logo-original/968523.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6120481",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u041e\u043f\u044b\u0442 \u043e\u0442 1 \u0433\u043e\u0434\u0430 \u043a\u043e\u043c\u043c\u0435\u0440\u0447\u0435\u0441\u043a\u043e\u0439 \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0438. \u0417\u043d\u0430\u043d\u0438\u0435 \u044f\u0437\u044b\u043a\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f JavaScript \u0438 TypeScript. \u0417\u043d\u0430\u043d\u0438\u0435 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438 React. \u0417\u043d\u0430\u043d\u0438\u0435 \u043e\u0434\u043d\u043e\u0433\u043e \u0438\u0437 \u0441\u0442\u0435\u0439\u0442 \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440\u043e\u0432...",
+        "responsibility": "Antd / material ui. Moment / date fns / day.js. Chart.js."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "\u0414\u0440\u0443\u0433\u043e\u0435"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "\u041e\u0442 1 \u0433\u043e\u0434\u0430 \u0434\u043e 3 \u043b\u0435\u0442"
+      },
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86458967",
+      "premium": false,
+      "name": "\u0421\u0442\u0430\u0436\u0435\u0440-\u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442 Python",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "\u041c\u043e\u0441\u043a\u0432\u0430",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 60000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": null,
+        "lng": null,
+        "description": null,
+        "raw": null,
+        "metro": {
+          "station_name": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f",
+          "line_name": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0446\u043a\u0430\u044f",
+          "station_id": "2.101",
+          "line_id": "2",
+          "lat": 55.729741,
+          "lng": 37.638693
+        },
+        "metro_stations": [
+          {
+            "station_name": "\u041f\u0430\u0432\u0435\u043b\u0435\u0446\u043a\u0430\u044f",
+            "line_name": "\u0417\u0430\u043c\u043e\u0441\u043a\u0432\u043e\u0440\u0435\u0446\u043a\u0430\u044f",
+            "station_id": "2.101",
+            "line_id": "2",
+            "lat": 55.729741,
+            "lng": 37.638693
           },
           {
-            'station_name': 'Геологическая',
-            'line_name': 'Север-Юг',
-            'station_id': '48.267',
-            'line_id': '48',
-            'lat': 56.826715,
-            'lng': 60.603754
-          },
-          {
-            'station_name': 'Чкаловская',
-            'line_name': 'Север-Юг',
-            'station_id': '48.269',
-            'line_id': '48',
-            'lat': 56.808502,
-            'lng': 60.610698
+            "station_name": "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432\u0441\u043a\u0430\u044f",
+            "line_name": "\u0421\u0435\u0440\u043f\u0443\u0445\u043e\u0432\u0441\u043a\u043e-\u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0441\u043a\u0430\u044f",
+            "station_id": "9.37",
+            "line_id": "9",
+            "lat": 55.726548,
+            "lng": 37.624792
           }
         ],
-        'id': '12407101'
+        "id": "12869648"
       },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-06T09:06:22+0300',
-      'created_at': '2023-09-06T09:06:22+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86306225',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86306225?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86306225',
-      'relations': [],
-      'employer': {
-        'id': '2696688',
-        'name': 'UDV Group',
-        'url': 'https://api.hh.ru/employers/2696688',
-        'alternate_url': 'https://hh.ru/employer/2696688',
-        'logo_urls': {
-          'original': 'https://hhcdn.ru/employer-logo-original/811280.png',
-          '240': 'https://hhcdn.ru/employer-logo/3686008.png',
-          '90': 'https://hhcdn.ru/employer-logo/3686007.png'
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-08T15:07:23+0300",
+      "created_at": "2023-09-08T15:07:23+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86458967",
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86458967?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86458967",
+      "relations": [],
+      "employer": {
+        "id": "9295409",
+        "name": "\u0410\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0435 \u0431\u0435\u0441\u043f\u0438\u043b\u043e\u0442\u043d\u044b\u0435 \u0441\u0438\u0441\u0442\u0435\u043c\u044b",
+        "url": "https://api.hh.ru/employers/9295409",
+        "alternate_url": "https://hh.ru/employer/9295409",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9295409",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "\u0421\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044c \u0431\u044b\u0441\u0442\u0440\u043e \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0432 \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u043c \u043f\u0440\u0435\u0434\u043c\u0435\u0442\u0435 (\u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0435, \u044f\u0437\u044b\u043a\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f, \u0438 \u0442.\u0434.). \u041e\u043f\u044b\u0442 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 <highlighttext>Python</highlighttext> (\u043d\u0435 \u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u043f\u0440\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u044b\u0439). ",
+        "responsibility": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0430 \u043f\u0440\u043e\u0442\u043e\u0442\u0438\u043f\u043e\u0432 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c (\u043d\u0430 <highlighttext>Python</highlighttext>) \u0432 \u0441\u0444\u0435\u0440\u0435 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u043e\u0433\u043e \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043c\u0435\u0436\u0434\u0443 \u0441\u043e\u0431\u043e\u0439 \u043f\u043e \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c \u0446\u0438\u0444\u0440\u043e\u0432\u044b\u043c \u043f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u0430\u043c, \u0430\u043d\u0430\u043b\u0438\u0437 \u0438 \u0432\u0438\u0437\u0443\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f..."
+      },
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "\u041e\u0442 1 \u0433\u043e\u0434\u0430 \u0434\u043e 3 \u043b\u0435\u0442"
+      },
+      "employment": {
+        "id": "probation",
+        "name": "\u0421\u0442\u0430\u0436\u0438\u0440\u043e\u0432\u043a\u0430"
+      },
+      "adv_response_url": null,
+      "is_adv_vacancy": false
+    },
+    {
+      "id": "86425845",
+      "premium": false,
+      "name": "Junior Backend - \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "78",
+        "name": "\u0421\u0430\u043c\u0430\u0440\u0430",
+        "url": "https://api.hh.ru/areas/78"
+      },
+      "salary": null,
+      "type": {
+        "id": "open",
+        "name": "\u041e\u0442\u043a\u0440\u044b\u0442\u0430\u044f"
+      },
+      "address": {
+        "city": "\u0421\u0430\u043c\u0430\u0440\u0430",
+        "street": "\u0443\u043b\u0438\u0446\u0430 \u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0430",
+        "building": "1\u0410",
+        "lat": 53.202513,
+        "lng": 50.158566,
+        "description": null,
+        "raw": "\u0421\u0430\u043c\u0430\u0440\u0430, \u0443\u043b\u0438\u0446\u0430 \u0413\u0430\u0433\u0430\u0440\u0438\u043d\u0430, 1\u0410",
+        "metro": {
+          "station_name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
+          "line_name": "\u041f\u0435\u0440\u0432\u0430\u044f",
+          "station_id": "54.308",
+          "line_id": "54",
+          "lat": 53.203791,
+          "lng": 50.159832
         },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2696688',
-        'accredited_it_employer': True,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Знания/опыт работы с сетями. Опыт разработки на языке программирования <highlighttext>Python</highlighttext> от 1 года. Будет плюсом: Опыт сбора, анализа и...',
-        'responsibility': '<highlighttext>Python</highlighttext>-разработчику предстоит разрабатывать скрипты безопасности для сбора данных из различных средств защиты информации включая антивирусы, SIEM, DLP, IDS/IPS...'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '96',
-          'name': 'Программист, разработчик'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'between1And3',
-        'name': 'От 1 года до 3 лет'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '86286426',
-      'premium': False,
-      'name': 'Junior React разработчик',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '1545',
-        'name': 'Новочеркасск',
-        'url': 'https://api.hh.ru/areas/1545'
-      },
-      'salary': {
-        'from': 50000,
-        'to': None,
-        'currency': 'RUR',
-        'gross': False
-      },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': {
-        'city': 'Новочеркасск',
-        'street': 'Школьная улица',
-        'building': '1А/69А',
-        'lat': 47.421217,
-        'lng': 40.102321,
-        'description': None,
-        'raw': 'Новочеркасск, Школьная улица, 1А/69А',
-        'metro': None,
-        'metro_stations': [],
-        'id': '7552195'
-      },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-05T17:31:33+0300',
-      'created_at': '2023-09-05T17:31:33+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86286426',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86286426?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86286426',
-      'relations': [],
-      'employer': {
-        'id': '6120481',
-        'name': 'Fortech',
-        'url': 'https://api.hh.ru/employers/6120481',
-        'alternate_url': 'https://hh.ru/employer/6120481',
-        'logo_urls': {
-          '240': 'https://hhcdn.ru/employer-logo/5493205.png',
-          '90': 'https://hhcdn.ru/employer-logo/5493204.png',
-          'original': 'https://hhcdn.ru/employer-logo-original/968523.png'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=6120481',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Опыт от 1 года коммерческой разработки. Знание языков программирования JavaScript и TypeScript. Знание библиотеки React. Знание одного из стейт менеджеров...',
-        'responsibility': 'Antd / material ui. Moment / date fns / day.js. Chart.js.'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '40',
-          'name': 'Другое'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'between1And3',
-        'name': 'От 1 года до 3 лет'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '84695887',
-      'premium': False,
-      'name': 'Стажер/Программист',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '1',
-        'name': 'Москва',
-        'url': 'https://api.hh.ru/areas/1'
-      },
-      'salary': {
-        'from': 15000,
-        'to': 20000,
-        'currency': 'RUR',
-        'gross': False
-      },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': None,
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-08-08T00:45:59+0300',
-      'created_at': '2023-08-08T00:45:59+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=84695887',
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/84695887?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/84695887',
-      'relations': [],
-      'employer': {
-        'id': '5334116',
-        'name': 'Board-Msk.ru',
-        'url': 'https://api.hh.ru/employers/5334116',
-        'alternate_url': 'https://hh.ru/employer/5334116',
-        'logo_urls': None,
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5334116',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'практический опыт на учебном проекте, который поможет расти вам как разработчику. - знания основ Backend-разработки. - базовые знания Ruby или любого...',
-        'responsibility': None
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [
-        {
-          'id': 'from_four_to_six_hours_in_a_day',
-          'name': 'Можно работать сменами по\xa04–6 часов в\xa0день'
-        }
-      ],
-      'working_time_modes': [
-        {
-          'id': 'start_after_sixteen',
-          'name': 'Можно начинать работать после 16:00'
-        }
-      ],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '96',
-          'name': 'Программист, разработчик'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'between1And3',
-        'name': 'От 1 года до 3 лет'
-      },
-      'employment': {
-        'id': 'probation',
-        'name': 'Стажировка'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '86139596',
-      'premium': False,
-      'name': 'Веб-программист',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': True,
-      'area': {
-        'id': '159',
-        'name': 'Астана',
-        'url': 'https://api.hh.ru/areas/159'
-      },
-      'salary': {
-        'from': 100000,
-        'to': 500000,
-        'currency': 'KZT',
-        'gross': True
-      },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': None,
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-01T22:46:38+0300',
-      'created_at': '2023-09-01T22:46:38+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86139596',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86139596?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86139596',
-      'relations': [],
-      'employer': {
-        'id': '1290372',
-        'name': 'Rison',
-        'url': 'https://api.hh.ru/employers/1290372',
-        'alternate_url': 'https://hh.ru/employer/1290372',
-        'logo_urls': {
-          '90': 'https://hhcdn.ru/employer-logo/6243194.png',
-          'original': 'https://hhcdn.ru/employer-logo-original/1155685.png',
-          '240': 'https://hhcdn.ru/employer-logo/6243195.png'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1290372',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Backend технологии (например: .NET, Java, Node.js, Go, <highlighttext>Python</highlighttext>, Php). Frontend технологии (например: Angular, React, Vue, Ext.js, Redux). Базы данных (например...',
-        'responsibility': 'Проектировать/разрабатывать/тестировать новые модули проекта. Контролировать/отслеживать/отчитываться по текущим заданиям. Активное участвовать на совещаниях/обсуждения/звонках.'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [
-        {
-          'id': 'from_four_to_six_hours_in_a_day',
-          'name': 'Можно работать сменами по\xa04–6 часов в\xa0день'
-        }
-      ],
-      'working_time_modes': [
-        {
-          'id': 'start_after_sixteen',
-          'name': 'Можно начинать работать после 16:00'
-        }
-      ],
-      'accept_temporary': True,
-      'professional_roles': [
-        {
-          'id': '96',
-          'name': 'Программист, разработчик'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'between1And3',
-        'name': 'От 1 года до 3 лет'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '85628220',
-      'premium': False,
-      'name': 'Web-программист - стажер',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '160',
-        'name': 'Алматы',
-        'url': 'https://api.hh.ru/areas/160'
-      },
-      'salary': None,
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': {
-        'city': 'Алматы',
-        'street': 'микрорайон Алмагуль',
-        'building': '23А',
-        'lat': 43.206069,
-        'lng': 76.900792,
-        'description': None,
-        'raw': 'Алматы, микрорайон Алмагуль, 23А',
-        'metro': None,
-        'metro_stations': [],
-        'id': '13753883'
-      },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-08-23T11:43:57+0300',
-      'created_at': '2023-08-23T11:43:57+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=85628220',
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/85628220?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/85628220',
-      'relations': [],
-      'employer': {
-        'id': '5031522',
-        'name': 'Autodata',
-        'url': 'https://api.hh.ru/employers/5031522',
-        'alternate_url': 'https://hh.ru/employer/5031522',
-        'logo_urls': None,
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5031522',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Знать теорию тестирования, что такое тест планы, чек листы и протокол тестирования, свободно владеть ЯП <highlighttext>Python</highlighttext>, быть приспособленным к монотонной...',
-        'responsibility': 'Как правильно работать с git-ом в команде. Писать автотесты на базе Selenium/<highlighttext>Python</highlighttext> (тестировщик). Создавать web-дизайны для реальных...'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '96',
-          'name': 'Программист, разработчик'
-        }
-      ],
-      'accept_incomplete_resumes': True,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
-      },
-      'employment': {
-        'id': 'probation',
-        'name': 'Стажировка'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '86287550',
-      'premium': False,
-      'name': 'Начинающий it-специалист/ Резвый Эникейщик',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '1',
-        'name': 'Москва',
-        'url': 'https://api.hh.ru/areas/1'
-      },
-      'salary': {
-        'from': 80000,
-        'to': None,
-        'currency': 'RUR',
-        'gross': False
-      },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': {
-        'city': 'Москва',
-        'street': '10-я Парковая улица',
-        'building': None,
-        'lat': 55.796623,
-        'lng': 37.802221,
-        'description': None,
-        'raw': 'Москва, 10-я Парковая улица',
-        'metro': {
-          'station_name': 'Первомайская',
-          'line_name': 'Арбатско-Покровская',
-          'station_id': '3.106',
-          'line_id': '3',
-          'lat': 55.794376,
-          'lng': 37.799364
-        },
-        'metro_stations': [
+        "metro_stations": [
           {
-            'station_name': 'Первомайская',
-            'line_name': 'Арбатско-Покровская',
-            'station_id': '3.106',
-            'line_id': '3',
-            'lat': 55.794376,
-            'lng': 37.799364
+            "station_name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
+            "line_name": "\u041f\u0435\u0440\u0432\u0430\u044f",
+            "station_id": "54.308",
+            "line_id": "54",
+            "lat": 53.203791,
+            "lng": 50.159832
           }
         ],
-        'id': '274583'
+        "id": "7562680"
       },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-05T17:48:04+0300',
-      'created_at': '2023-09-05T17:48:04+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86287550',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86287550?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86287550',
-      'relations': [],
-      'employer': {
-        'id': '808517',
-        'name': 'Интеллектуальные робот системы',
-        'url': 'https://api.hh.ru/employers/808517',
-        'alternate_url': 'https://hh.ru/employer/808517',
-        'logo_urls': {
-          'original': 'https://hhcdn.ru/employer-logo-original/1034930.jpg',
-          '240': 'https://hhcdn.ru/employer-logo/5760481.jpeg',
-          '90': 'https://hhcdn.ru/employer-logo/5760480.jpeg'
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2023-09-08T08:11:02+0300",
+      "created_at": "2023-09-08T08:11:02+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=86425845",
+      "show_logo_in_search": null,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/86425845?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/86425845",
+      "relations": [],
+      "employer": {
+        "id": "3778246",
+        "name": "\u041d\u0415\u041e\u0421\u041e\u0424\u0422",
+        "url": "https://api.hh.ru/employers/3778246",
+        "alternate_url": "https://hh.ru/employer/3778246",
+        "logo_urls": {
+          "240": "https://hhcdn.ru/employer-logo/3830604.png",
+          "90": "https://hhcdn.ru/employer-logo/3830603.png",
+          "original": "https://hhcdn.ru/employer-logo-original/847432.png"
         },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=808517',
-        'accredited_it_employer': False,
-        'trusted': True
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3778246",
+        "accredited_it_employer": false,
+        "trusted": true
       },
-      'snippet': {
-        'requirement': 'Навыки работы с Windows server 2008/2016, 7, 10, Linux Ubuntu. Страсть и любознательность в изучении нейронных сетей, ИИ и...',
-        'responsibility': 'Обслуживание компьютерной техники и оргтехники, сетевой инфраструктуры. Помощь в обслуживании, мелком ремонте компьютеров и оргтехники; апгрейд компьютеров. Помощь в поддержании...'
+      "snippet": {
+        "requirement": "Node.js (Express). \u041e\u041e\u041f \u0438 \u0435\u0433\u043e \u0440\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0432 TypeScript. \u0410\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u043d\u044b\u0439 JavaScript. \u041f\u043e\u043d\u0438\u043c\u0430\u043d\u0438\u0435 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u0411\u0414 \u0438 \u0443\u043c\u0435\u043d\u0438\u0435 \u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0437\u0430\u043f\u0440\u043e\u0441\u044b \u043d\u0430 SQL (\u0443...",
+        "responsibility": "\u0412\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e \u0432\u043b\u0438\u044f\u0442\u044c \u043d\u0430 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043f\u043b\u0430\u043d\u044b \u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438 (\u0440\u0430\u0431\u043e\u0442\u0430 \u0441 \u0432\u043b\u0430\u0434\u0435\u043b\u044c\u0446\u0430\u043c\u0438 \u043d\u0430\u043f\u0440\u044f\u043c\u0443\u044e). \u041f\u0435\u0447\u0435\u043d\u044c\u0435, \u0447\u0430\u0439, \u043f\u0438\u0446\u0446\u0430 \u0438 \u0437\u0434\u043e\u0440\u043e\u0432\u0435\u043d\u043d\u044b\u0439 \u043b\u0430\u0441\u043a\u043e\u0432\u044b\u0439 \u0440\u0443\u0447\u043d\u043e\u0439..."
       },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
+      "contacts": null,
+      "schedule": null,
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "professional_roles": [
         {
-          'id': '113',
-          'name': 'Системный администратор'
+          "id": "96",
+          "name": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0441\u0442, \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a"
         }
       ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "\u041e\u0442 1 \u0433\u043e\u0434\u0430 \u0434\u043e 3 \u043b\u0435\u0442"
       },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
+      "employment": {
+        "id": "full",
+        "name": "\u041f\u043e\u043b\u043d\u0430\u044f \u0437\u0430\u043d\u044f\u0442\u043e\u0441\u0442\u044c"
       },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '86158210',
-      'premium': False,
-      'name': 'Програмист python',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '90',
-        'name': 'Томск',
-        'url': 'https://api.hh.ru/areas/90'
-      },
-      'salary': None,
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': {
-        'city': 'Томск',
-        'street': None,
-        'building': None,
-        'lat': 56.484645,
-        'lng': 84.947649,
-        'description': None,
-        'raw': 'Томск',
-        'metro': None,
-        'metro_stations': [],
-        'id': '14148206'
-      },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-03T16:33:39+0300',
-      'created_at': '2023-09-03T16:33:39+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86158210',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86158210?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86158210',
-      'relations': [],
-      'employer': {
-        'id': '10264292',
-        'name': 'ИТ-Регул',
-        'url': 'https://api.hh.ru/employers/10264292',
-        'alternate_url': 'https://hh.ru/employer/10264292',
-        'logo_urls': {
-          '90': 'https://hhcdn.ru/employer-logo/6245002.jpeg',
-          'original': 'https://hhcdn.ru/employer-logo-original/1156138.jpeg',
-          '240': 'https://hhcdn.ru/employer-logo/6245003.jpeg'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=10264292',
-        'accredited_it_employer': False,
-        'trusted': False
-      },
-      'snippet': {
-        'requirement': 'Знать <highlighttext>python</highlighttext>. Иметь опыт работы с django.',
-        'responsibility': 'Иметь представление о разработке telegram-ботов с помощью библиотеки pyTelegramBotAPI. Обязанности: Создание телеграмм бота.'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '40',
-          'name': 'Другое'
-        }
-      ],
-      'accept_incomplete_resumes': True,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '86304492',
-      'premium': False,
-      'name': 'Тестировщик / QA engineer',
-      'department': None,
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '76',
-        'name': 'Ростов-на-Дону',
-        'url': 'https://api.hh.ru/areas/76'
-      },
-      'salary': {
-        'from': 25000,
-        'to': 40000,
-        'currency': 'RUR',
-        'gross': True
-      },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': {
-        'city': 'Ростов-на-Дону',
-        'street': 'Береговая улица',
-        'building': '8',
-        'lat': 47.212353,
-        'lng': 39.705383,
-        'description': None,
-        'raw': 'Ростов-на-Дону, Береговая улица, 8',
-        'metro': None,
-        'metro_stations': [],
-        'id': '3520670'
-      },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-06T08:42:19+0300',
-      'created_at': '2023-09-06T08:42:19+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86304492',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86304492?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86304492',
-      'relations': [],
-      'employer': {
-        'id': '4487943',
-        'name': 'Сканрост',
-        'url': 'https://api.hh.ru/employers/4487943',
-        'alternate_url': 'https://hh.ru/employer/4487943',
-        'logo_urls': {
-          'original': 'https://hhcdn.ru/employer-logo-original/1072577.jpg',
-          '240': 'https://hhcdn.ru/employer-logo/5910938.jpeg',
-          '90': 'https://hhcdn.ru/employer-logo/5910937.jpeg'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4487943',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Опыт работы в тестировании от 1 года. Понимание принципов работы web-приложений (хотя бы понимать чем POST запрос отличается от...',
-        'responsibility': 'Разработка тест-кейсов и планов тестирования. Ревью/разработка тестовой документации. Проведение ручного и\\или автоматизированного тестирования ПО. Составление отчетов об...'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '124',
-          'name': 'Тестировщик'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '84841138',
-      'premium': False,
-      'name': 'Исследователь данных, удаленно',
-      'department': {
-        'id': '816144-816144-office',
-        'name': 'ВкусВилл. Офис'
-      },
-      'has_test': False,
-      'response_letter_required': False,
-      'area': {
-        'id': '1',
-        'name': 'Москва',
-        'url': 'https://api.hh.ru/areas/1'
-      },
-      'salary': {
-        'from': 190000,
-        'to': None,
-        'currency': 'RUR',
-        'gross': False
-      },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': None,
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-08-09T15:18:57+0300',
-      'created_at': '2023-08-09T15:18:57+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=84841138',
-      'branding': {
-        'type': 'MAKEUP',
-        'tariff': None
-      },
-      'show_logo_in_search': True,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/84841138?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/84841138',
-      'relations': [],
-      'employer': {
-        'id': '816144',
-        'name': 'ВкусВилл',
-        'url': 'https://api.hh.ru/employers/816144',
-        'alternate_url': 'https://hh.ru/employer/816144',
-        'logo_urls': {
-          '240': 'https://hhcdn.ru/employer-logo/4154421.jpeg',
-          '90': 'https://hhcdn.ru/employer-logo/4154420.jpeg',
-          'original': 'https://hhcdn.ru/employer-logo-original/928465.jpg'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=816144',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Понимание бизнес-метрик и навыки презентации результата. — Уверенные знание SQL и <highlighttext>Python</highlighttext>. — Знание математической статистики и умение адаптировать методы машинного...',
-        'responsibility': 'Выявлять скрытые тенденции и закономерности, описывать их в том числе в виде аналитических материалов. — Проведение ad-hoc исследований. — '
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '10',
-          'name': 'Аналитик'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'between1And3',
-        'name': 'От 1 года до 3 лет'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '86093868',
-      'premium': False,
-      'name': 'Backend-Developer Python (junior)',
-      'department': None,
-      'has_test': True,
-      'response_letter_required': False,
-      'area': {
-        'id': '1',
-        'name': 'Москва',
-        'url': 'https://api.hh.ru/areas/1'
-      },
-      'salary': None,
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': {
-        'city': 'Москва',
-        'street': 'Нижняя Сыромятническая улица',
-        'building': '10с12',
-        'lat': 55.752708,
-        'lng': 37.668893,
-        'description': None,
-        'raw': 'Москва, Нижняя Сыромятническая улица, 10с12',
-        'metro': {
-          'station_name': 'Курская',
-          'line_name': 'Кольцевая',
-          'station_id': '5.71',
-          'line_id': '5',
-          'lat': 55.758631,
-          'lng': 37.661059
-        },
-        'metro_stations': [
-          {
-            'station_name': 'Курская',
-            'line_name': 'Кольцевая',
-            'station_id': '5.71',
-            'line_id': '5',
-            'lat': 55.758631,
-            'lng': 37.661059
-          }
-        ],
-        'id': '4831658'
-      },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-01T10:13:53+0300',
-      'created_at': '2023-09-01T10:13:53+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86093868',
-      'branding': {
-        'type': 'MAKEUP',
-        'tariff': None
-      },
-      'show_logo_in_search': True,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86093868?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86093868',
-      'relations': [],
-      'employer': {
-        'id': '3731347',
-        'name': 'Онлайн-школа Тетрика',
-        'url': 'https://api.hh.ru/employers/3731347',
-        'alternate_url': 'https://hh.ru/employer/3731347',
-        'logo_urls': {
-          'original': 'https://hhcdn.ru/employer-logo-original/785147.jpg',
-          '240': 'https://hhcdn.ru/employer-logo/3581480.jpeg',
-          '90': 'https://hhcdn.ru/employer-logo/3581479.jpeg'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=3731347',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': '<highlighttext>Python</highlighttext> 3.11. Tornado + asyncpg, aiohttp/fastapi/flask (для микросервисов). PostgreSQL, Redis. Docker, k8s. Хорошее знание <highlighttext>Python</highlighttext>...',
-        'responsibility': 'Создавать инструменты, которые усовершенствуют процесс обучения для учеников и репетиторов. Участвовать в принятии архитектурных решений и развитии системы с точки...'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '96',
-          'name': 'Программист, разработчик'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '85967938',
-      'premium': False,
-      'name': 'Стажировка продуктовым аналитиком в команде путешествий',
-      'department': None,
-      'has_test': True,
-      'response_letter_required': True,
-      'area': {
-        'id': '1',
-        'name': 'Москва',
-        'url': 'https://api.hh.ru/areas/1'
-      },
-      'salary': {
-        'from': None,
-        'to': 60000,
-        'currency': 'RUR',
-        'gross': True
-      },
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': {
-        'city': 'Москва',
-        'street': '1-й Нагатинский проезд',
-        'building': '10',
-        'lat': 55.678458,
-        'lng': 37.632287,
-        'description': None,
-        'raw': 'Москва, 1-й Нагатинский проезд, 10',
-        'metro': {
-          'station_name': 'Нагатинская',
-          'line_name': 'Серпуховско-Тимирязевская',
-          'station_id': '9.85',
-          'line_id': '9',
-          'lat': 55.682099,
-          'lng': 37.620917
-        },
-        'metro_stations': [
-          {
-            'station_name': 'Нагатинская',
-            'line_name': 'Серпуховско-Тимирязевская',
-            'station_id': '9.85',
-            'line_id': '9',
-            'lat': 55.682099,
-            'lng': 37.620917
-          }
-        ],
-        'id': '3068354'
-      },
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-08-30T09:19:38+0300',
-      'created_at': '2023-08-30T09:19:38+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=85967938',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/85967938?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/85967938',
-      'relations': [],
-      'employer': {
-        'id': '5325',
-        'name': 'Туту.ру',
-        'url': 'https://api.hh.ru/employers/5325',
-        'alternate_url': 'https://hh.ru/employer/5325',
-        'logo_urls': {
-          '240': 'https://hhcdn.ru/employer-logo/6048634.png',
-          '90': 'https://hhcdn.ru/employer-logo/6048633.png',
-          'original': 'https://hhcdn.ru/employer-logo-original/1107007.png'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=5325',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Любовь к цифрам и табличкам. Знание SQL и <highlighttext>Python</highlighttext> хотя бы на базовом уровне. Умение говорить числами вместо гуманитарных эпитетов. ',
-        'responsibility': 'Разобраться с нашим инструментарием и данными. Проверять продуктовые гипотезы: участвовать в исследованиях и АБ-тестированиях, анализировать результаты. Прогнозировать показатели компании...'
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '164',
-          'name': 'Продуктовый аналитик'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
-      },
-      'employment': {
-        'id': 'part',
-        'name': 'Частичная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
-    },
-    {
-      'id': '86108750',
-      'premium': False,
-      'name': 'Junior Game Analyst (удаленно)',
-      'department': None,
-      'has_test': True,
-      'response_letter_required': False,
-      'area': {
-        'id': '1',
-        'name': 'Москва',
-        'url': 'https://api.hh.ru/areas/1'
-      },
-      'salary': None,
-      'type': {
-        'id': 'open',
-        'name': 'Открытая'
-      },
-      'address': None,
-      'response_url': None,
-      'sort_point_distance': None,
-      'published_at': '2023-09-01T13:12:19+0300',
-      'created_at': '2023-09-01T13:12:19+0300',
-      'archived': False,
-      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=86108750',
-      'show_logo_in_search': None,
-      'insider_interview': None,
-      'url': 'https://api.hh.ru/vacancies/86108750?host=hh.ru',
-      'alternate_url': 'https://hh.ru/vacancy/86108750',
-      'relations': [],
-      'employer': {
-        'id': '2666179',
-        'name': 'Azur Games',
-        'url': 'https://api.hh.ru/employers/2666179',
-        'alternate_url': 'https://hh.ru/employer/2666179',
-        'logo_urls': {
-          '90': 'https://hhcdn.ru/employer-logo/3788991.png',
-          '240': 'https://hhcdn.ru/employer-logo/3788992.png',
-          'original': 'https://hhcdn.ru/employer-logo-original/837027.png'
-        },
-        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2666179',
-        'accredited_it_employer': False,
-        'trusted': True
-      },
-      'snippet': {
-        'requirement': 'Уверенное знание математической статистики и теории вероятностей. Умение работать с большими объёмами данных. Искренний интерес к игровой индустрии. Знание <highlighttext>Python</highlighttext>...',
-        'responsibility': 'Работа с ключевыми продуктовыми метриками (Retention, ARPU, DAU и т.д.). Поиск точек роста проекта с помощью аналитики. '
-      },
-      'contacts': None,
-      'schedule': None,
-      'working_days': [],
-      'working_time_intervals': [],
-      'working_time_modes': [],
-      'accept_temporary': False,
-      'professional_roles': [
-        {
-          'id': '10',
-          'name': 'Аналитик'
-        }
-      ],
-      'accept_incomplete_resumes': False,
-      'experience': {
-        'id': 'noExperience',
-        'name': 'Нет опыта'
-      },
-      'employment': {
-        'id': 'full',
-        'name': 'Полная занятость'
-      },
-      'adv_response_url': None,
-      'is_adv_vacancy': False
+      "adv_response_url": null,
+      "is_adv_vacancy": false
     }
   ],
-  'found': 11695,
-  'pages': 100,
-  'per_page': 20,
-  'page': 0,
-  'clusters': None,
-  'arguments': None,
-  'fixes': None,
-  'suggests': None,
-  'alternate_url': 'https://hh.ru/search/vacancy?enable_snippets=true&text=python'
+  "found": 11305,
+  "pages": 100,
+  "per_page": 20,
+  "page": 0,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?enable_snippets=true&text=Python"
 }

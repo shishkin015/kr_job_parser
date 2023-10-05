@@ -24,6 +24,8 @@ def run_program():
                 utils.remove_vacancy_from_json()  # Удалить вакансию из JSON.
             case '5':
                 utils.search_by_criterion()  # Поиск вакансий по ключевому слову.
+            case '6':
+                utils.db_manipulation()  # Запуск функции для работы с данными в DB
             case "0":
                 flag = False  # Завершить программу при выборе "0" (выход).
 

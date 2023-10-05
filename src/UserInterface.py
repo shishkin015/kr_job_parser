@@ -1,6 +1,7 @@
 from API_hh_sjob.HeadHunterAPI import HeadHunterAPI
 from API_hh_sjob.SuperJobAPI import SuperJobAPI
 from src.JobEditor import JsonJobEditor, TxtJobEditor, ExcelJobEditor, CSVJobEditor
+from src.VacancyStorage import DatabaseSaver
 
 
 class UserInterface:
@@ -145,9 +146,10 @@ class UserInterface:
                            "3.Сравнение двух вакансий\n"
                            "4.Удалить вакансию из JSON\n"
                            "5.Вывести по ключевому слову\n"
+                           "6.Взаимодействие с БД\n"
                            "0.Выход\n"
                            "Ввод: ")
-            if choice in ['0', '1', '2', '3', '4', '5']:
+            if choice in ['0', '1', '2', '3', '4', '5', '6']:
                 return choice
             else:
                 print("Ошибка ввода")
@@ -169,7 +171,8 @@ class UserInterface:
                            "2.В TXT\n"
                            "3.В CSV\n"
                            "4.В EXEL\n"
-                           "5.Не сохранять\n"
+                           "5.В БД\n"
+                           "6.Не сохранять\n"
                            "Ввод: ")
             match choice:
                 case "1":
@@ -189,6 +192,10 @@ class UserInterface:
                     txt_saver.save_to_file()
                     break
                 case "5":
+                    database_saver = DatabaseSaver()
+                    database_saver.save_to_database(vacancies_list)
+                    break
+                case "6":
                     return
                 case _:
                     print("Ошибка ввода!")
